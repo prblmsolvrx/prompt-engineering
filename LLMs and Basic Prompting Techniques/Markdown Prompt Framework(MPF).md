@@ -29,3 +29,29 @@ Traveled the stars from morning till night.
 Teaching aliens about prompts, oh what a sight,  
 Until a comet passed by, with a tail so tight.  
 Cosmo barked, "Chase it?" and took off in flight!
+
+
+__Style Specification__
+
+__ASK__
+Write a short story
+
+__STYLE__
+- Tone: inspirational and optimistic
+- Language: Accessible yet rich in imagery and futuristic terms
+- Setting: should not exceed five paragraphs
+- Theme: unity overcoming adversity
+
+
+
+__Question__
+Refine this prompt to generate an informative and concise summary 
+about the recent advancements in Machine Learning suitable for a general audience.
+
+__ASK__
+Generate an informative and concise summary about the recent advancements in Machine Learning suitable for a general audience.
+
+__STYLE__
+- Tone: uplifting and visionary
+- Language: English
+- Length: Brief, two sentence
